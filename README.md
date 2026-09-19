@@ -1,4 +1,5 @@
 Rescatando un PC de la basura: Instalando Linux Mint para mi Laboratorio 💻
+
 ¡Hola! En este repositorio quiero documentar un pequeño proyecto de reciclaje tecnológico muy gratificante. En mi trabajo iban a desechar un computador antiguo que ya daban por obsoleto, así que decidí pedirlo para rescatarlo y darle una segunda oportunidad.<img width="4032" height="3024" alt="IMG_0897" src="https://github.com/user-attachments/assets/9e6d4dd9-60c0-4f9d-9cdd-6959687c1fb4" /> El objetivo final es transformarlo en una estación de trabajo dedicada y ligera para mis laboratorios, prácticas de redes y aprendizaje diario, sin arriesgar mi equipo principal.A continuación, te cuento en detalle cómo fue todo el proceso, desde el primer arranque hasta dejarlo completamente funcional.El punto de partida y la sorpresa con el sistema anterior. Lo primero fue conectar el equipo, configurar el orden de arranque en la BIOS y echar a andar el medio de instalación con Linux Mint en una memoria USB.
 <img width="4032" height="3024" alt="IMG_0898" src="https://github.com/user-attachments/assets/4a7c9a70-404a-4387-a5a4-9f6c015bcd74" />
 
