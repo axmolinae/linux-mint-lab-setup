@@ -8,15 +8,15 @@ Durante los primeros pasos del asistente gráfico —mientras revisaba las parti
 Dejar atrás ese software obsoleto y sobrecargado reforzó aún más la decisión de limpiar el disco por completo y migrar a un entorno basado en Linux mucho más eficiente para el hardware disponible. Una vez que el instalador hizo su trabajo de copiar paquetes y configurar el sistema, apareció la ventana clásica que confirmaba que la instalación había terminado con éxito. En ese punto, lo único razonable era darle clic a reiniciar para salir de la sesión en vivo y preparar el primer arranque definitivo desde el disco duro. 
 Al reiniciar, el equipo hizo una pequeña pausa de seguridad y me mostró en pantalla el mensaje pidiéndome que retirara el medio de instalación (el pendrive) y presionara la tecla Enter para continuar. Hice el cambio físico, pulsé la tecla y el computador por fin cargó de forma limpia mi propio sistema operativo instalado en el disco interno. 
 
-Configuración de red y primera conexión a internet. 
+Configuración de red y primera conexión a internet: 
 
 Ya con el escritorio de Linux Mint en marcha, el siguiente paso era comprobar la conectividad. Decidí no complicarme con adaptadores inalámbricos y conecté un cable LAN directamente desde mi router al puerto Ethernet del PC.Quería ver qué tan bien reaccionaba el sistema a nivel de controladores de red heredados. Para mi tranquilidad, Linux Mint configuró la interfaz de forma completamente automática mediante DHCP en cuestión de segundos. Abrí el navegador web y las páginas cargaron al instante, <img width="2160" height="3840" alt="30562539-2BEC-47D7-9DCD-12D428ADBCC9" src="https://github.com/user-attachments/assets/f7455f22-0030-4901-9307-a4adb9c6204a" />
 confirmando que la conexión a internet estaba operativa y lista. Aproveché también de atender un aviso del gestor del sistema para aplicar una actualización rápida que asegurara tener los componentes del entorno al día.
 
-Verificación de periféricos y hardware antiguo. 
+Verificación de periféricos y hardware antiguo: 
 
 Una de las grandes incógnitas con este tipo de computadores de oficina es cómo reaccionarán ante dispositivos modernos, especialmente considerando que la placa madre cuenta todavía con puertos de entrada clásicos y redondos de tipo PS/2 para teclado y mouse.Para probar la compatibilidad, conecté un mouse USB común y corriente. Sin necesidad de buscar controladores en internet, ni compilar módulos extraños ni usar comandos en la terminal, Linux Mint reconoció el periférico de inmediato y de forma totalmente nativa. Este tipo de detalles demuestran por qué distribuciones como Mint son ideales para revivir hardware antiguo sin dolores de cabeza. 
 
-Conclusión y próximos pasos 
+Conclusión y próximos pasos:
 
 Con el sistema operativo limpio, la red funcionando a toda marcha y los periféricos respondiendo a la perfección, este viejo computador de desecho se convirtió oficialmente en una herramienta de estudio robusta y funcional.Este repositorio servirá como base para registrar los siguientes laboratorios que haré en este equipo, como la instalación y uso de herramientas de escaneo (nmap), pruebas de automatización y el desarrollo de mis prácticas de ciberseguridad. ¡A veces, lo único que necesita la tecnología vieja es un sistema operativo a la altura!
